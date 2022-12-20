@@ -3,41 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://julesrosier.github.io/dataflow-site/</loc>
+    <lastmod>2022-12-20T10:19:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julesrosier.github.io/dataflow-site/reports/</loc>
+    <lastmod>2022-12-20T10:19:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julesrosier.github.io/dataflow-site/reports/report-2022-12-20-10-19-02/</loc>
+    <lastmod>2022-12-20T10:19:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://julesrosier.github.io/dataflow-site/reports/report-2022-12-20-10-16-06/</loc>
     <lastmod>2022-12-20T10:16:06+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/reports/</loc>
-    <lastmod>2022-12-20T10:16:06+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/reports/report-2022-12-20-10-16-06/</loc>
-    <lastmod>2022-12-20T10:16:06+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/reports/report-2022-12-20-10-13-34/</loc>
+    <loc>https://julesrosier.github.io/dataflow-site/reports/report-2022-12-20-10-13-34/</loc>
     <lastmod>2022-12-20T10:13:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/reports/report-2022-12-20-10-12-30/</loc>
+    <loc>https://julesrosier.github.io/dataflow-site/reports/report-2022-12-20-10-12-30/</loc>
     <lastmod>2022-12-20T10:12:30+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/reports/report-2022-12-20-09-29-38/</loc>
+    <loc>https://julesrosier.github.io/dataflow-site/reports/report-2022-12-20-09-29-38/</loc>
     <lastmod>2022-12-20T09:29:38+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://julesrosier.github.io/dataflow-site/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://julesrosier.github.io/dataflow-site/tags/</loc>
   </url>
   
 </urlset>
