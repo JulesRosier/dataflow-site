@@ -1,43 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reports on Data Workflow</title>
-    <link>https://julesrosier.github.io/dataflow-site/reports/</link>
-    <description>Recent content in Reports on Data Workflow</description>
+    <title>Reports on My New Hugo Site</title>
+    <link>http://example.org/reports/</link>
+    <description>Recent content in Reports on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Dec 2022 23:20:43 +0100</lastBuildDate><atom:link href="https://julesrosier.github.io/dataflow-site/reports/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Dec 2022 10:16:06 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/reports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Stroom verbruik in België</title>
-      <link>https://julesrosier.github.io/dataflow-site/reports/report-2022-12-11-23-20-43/</link>
-      <pubDate>Sun, 11 Dec 2022 23:20:43 +0100</pubDate>
+      <link>http://example.org/reports/report-2022-12-20-10-16-06/</link>
+      <pubDate>Tue, 20 Dec 2022 10:16:06 +0100</pubDate>
       
-      <guid>https://julesrosier.github.io/dataflow-site/reports/report-2022-12-11-23-20-43/</guid>
-      <description>Grafiek Delectus aut fugiat suscipit rerum architecto ad. Pariatur similique debitis fugiat et. Ad perferendis debitis eum aut. Repudiandae qui odit sunt unde iste expedita voluptates ab.
-Incidunt nesciunt quasi dolore id cupiditate. Ipsum inventore natus deleniti esse unde. Consequatur facilis saepe dolorem corporis et qui aut impedit.
-Est deleniti odio quibusdam accusamus occaecati est. Ratione qui quod rerum nesciunt eaque. Mollitia ut quibusdam ullam officia facere quis fugit. At ut et fugiat veniam veniam ut aspernatur corrupti.</description>
+      <guid>http://example.org/reports/report-2022-12-20-10-16-06/</guid>
+      <description>Grafiek Consequatur rerum non nam et. Officia et fugit eos recusandae aspernatur. Et placeat tempora modi natus voluptates autem placeat et. Vel qui aliquam qui nemo omnis qui. Dolores sed doloribus porro autem provident dolorem. Et necessitatibus nam et voluptatem.
+Laborum sit ducimus quis voluptas. Molestias saepe a iure aliquam architecto voluptatum. Deleniti culpa ab occaecati quidem. Dignissimos aspernatur deserunt qui. Suscipit aliquid quia rerum similique exercitationem. Aut dicta enim porro repellat sunt.</description>
     </item>
     
     <item>
       <title>Stroom verbruik in België</title>
-      <link>https://julesrosier.github.io/dataflow-site/reports/report-2022-12-11-23-07-45/</link>
-      <pubDate>Sun, 11 Dec 2022 23:07:45 +0100</pubDate>
+      <link>http://example.org/reports/report-2022-12-20-10-13-34/</link>
+      <pubDate>Tue, 20 Dec 2022 10:13:34 +0100</pubDate>
       
-      <guid>https://julesrosier.github.io/dataflow-site/reports/report-2022-12-11-23-07-45/</guid>
-      <description>Grafiek Laudantium velit non suscipit commodi odit. Modi voluptate excepturi adipisci ipsam sint dolorum consequatur. Dicta dolores aut repudiandae necessitatibus assumenda perferendis quia eius. Non aut sed nesciunt et quia.
-Ut qui temporibus consequuntur eveniet quaerat. Omnis ut culpa sequi consequatur voluptas eos quam. Laborum omnis id qui quia voluptatem.
-Rem quis libero sed ab harum. Minus quis qui nobis. Officiis deserunt quas voluptatem vero voluptas occaecati. Ea expedita autem illum deleniti impedit quaerat maxime maiores.</description>
+      <guid>http://example.org/reports/report-2022-12-20-10-13-34/</guid>
+      <description>Grafiek Quia esse dolorem qui rerum. Molestiae debitis qui nisi accusamus sequi quas cupiditate quibusdam. Ut voluptatem enim id omnis sed.
+Vel vitae quia nam non fugiat quos. Eaque rem in rerum enim eligendi. Ut laudantium consequatur nobis. Minus impedit consequatur velit repudiandae.
+Error laboriosam perferendis aut blanditiis excepturi sed. Accusantium natus est est officiis omnis at. Quidem illo et sed ut. Qui dicta hic temporibus est doloremque explicabo animi quam.</description>
     </item>
     
     <item>
       <title>Stroom verbruik in België</title>
-      <link>https://julesrosier.github.io/dataflow-site/reports/report-2022-12-11-23-05-35/</link>
-      <pubDate>Sun, 11 Dec 2022 23:05:35 +0100</pubDate>
+      <link>http://example.org/reports/report-2022-12-20-10-12-30/</link>
+      <pubDate>Tue, 20 Dec 2022 10:12:30 +0100</pubDate>
       
-      <guid>https://julesrosier.github.io/dataflow-site/reports/report-2022-12-11-23-05-35/</guid>
-      <description>Grafiek Voluptatem quas quasi et ex. Eos a distinctio odio accusamus atque labore maiores et. Ab eius quidem voluptas. Ea sint possimus facilis molestiae beatae sit.
-Omnis id ut libero suscipit vitae. Maiores voluptatem a eos sint. Deleniti ut facilis voluptas voluptatum odit omnis. Tempora tempore eaque qui doloremque et sapiente sed.
-Harum fuga repudiandae quod. Aliquam deserunt neque perferendis asperiores autem. Et reiciendis et ex odit sed sunt et ab.</description>
+      <guid>http://example.org/reports/report-2022-12-20-10-12-30/</guid>
+      <description>Grafiek Consequatur veniam autem labore et molestiae culpa quo. Qui laudantium est tenetur est non quasi quae. Blanditiis id beatae reprehenderit. Quam corrupti doloribus nostrum aut illum soluta perspiciatis pariatur. Itaque totam at impedit. Labore atque commodi voluptatem dolor et ut qui.
+Animi consequatur dicta rem quia. Dolore qui ipsa quidem. Corporis possimus commodi voluptatum aspernatur autem non et. Tempore dolor quia reprehenderit quam. Sed error molestias molestias. Earum ut et tempore sit mollitia impedit.</description>
+    </item>
+    
+    <item>
+      <title>Stroom verbruik in België</title>
+      <link>http://example.org/reports/report-2022-12-20-09-29-38/</link>
+      <pubDate>Tue, 20 Dec 2022 09:29:38 +0100</pubDate>
+      
+      <guid>http://example.org/reports/report-2022-12-20-09-29-38/</guid>
+      <description>Grafiek Perspiciatis sequi quia voluptate sint. Provident minima ipsa vel autem. Voluptas eos sint quibusdam voluptatem voluptatum est ipsum. Consectetur minima nesciunt rerum vero. Illum quibusdam nostrum in aut.
+Fuga enim eum architecto qui sit. In ipsam sint harum. Nam excepturi rerum incidunt et fugiat consequuntur. Ex doloribus facilis omnis labore hic eum ab velit. Dolores doloremque quaerat aspernatur est qui exercitationem.
+Illum repellat officiis magni corrupti modi quibusdam saepe. Et autem ea numquam ducimus at.</description>
     </item>
     
   </channel>
